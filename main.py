@@ -20,9 +20,9 @@ def index():
 
 # 4. Route with a single parameter, returns the parameter within a message
 #    Located at: http://127.0.0.1:8000/AnyNameHere
-@app.get('/Welcome')
-def get_name(name: str):
-    return {'Welcome To Krish Youtube Channel': f'{name}'}
+@app.get('/{name}')
+def get_name(name:str):
+    return {'Welcome To Krish Youtube Channel',f'{name}' }
 
 
 

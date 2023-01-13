@@ -1,0 +1,62 @@
+{
+	"Apple___Apple_scab":{
+		"crop":"Apple",
+		"disease":"Apple Scab",
+		"causes":["Apple scab overwinters primarily in fallen leaves and in the soil. Disease development is favored by wet, cool weather that generally occurs in spring and early summer","Fungal spores are carried by wind, rain or splashing water from the ground to flowers, leaves or fruit. During damp or rainy periods, newly opening apple leaves are extremely susceptible to infection. The longer the leaves remain wet, the more severe the infection will be. Apple scab spreads rapidly between 55-75 degrees Fahrenheit"],
+		"prevention":["Choose resistant varieties when possible.","Rake under trees and destroy infected leaves to reduce the number of fungal spores available to start the disease cycle over again next spring","Water in the evening or early morning hours (avoid overhead irrigation) to give the leaves time to dry out before infection can occur.","Spread a 3- to 6-inch layer of compost under trees, keeping it away from the trunk, to cover soil and prevent splash dispersal of the fungal spores."]
+	},
+	"Apple___Black_rot":{
+		"crop":"Apple",
+		"disease":"Black Rot",
+		"causes":["Black rot is caused by the fungus Diplodia seriata (syn Botryosphaeria obtusa).The fungus can infect dead tissue as well as living trunks, branches, leaves and fruits. In wet weather, spores are released from these infections and spread by wind or splashing water. The fungus infects leaves and fruit through natural openings or minor wounds."],
+		"prevention":["Prune out dead or diseased branches.","Remove infected plant material from the area.","Be sure to remove the stumps of any apple trees you cut down. Dead stumps can be a source of spores"]
+	},
+	"Apple___Cedar_apple_rust":{
+		"crop":"Apple",
+		"disease":"Cedar Apple Rust",
+		"causes":["Cedar apple rust (Gymnosporangium juniperi-virginianae) is a fungal disease that depends on two species to spread and develop. ","It spends a portion of its two-year life cycle on Eastern red cedar (Juniperus virginiana)."," The pathogen’s spores develop in late fall on the juniper as a reddish brown gall on young branches of the trees."],
+		"prevention":["Since the juniper galls are the source of the spores that infect the apple trees, cutting them is a sound strategy if there aren’t too many of them.","While the spores can travel for miles, most of the ones that could infect your tree are within a few hundred feet.","The best way to do this is to prune the branches about 4-6 inches below the galls"]
+	},
+	"Apple___healthy":{
+		"crop":"Apple",
+		"disease":"No disease",
+		"healthy":true,
+		"bodyText":"Don't worry. Your crop is healthy. Keep it up !!!",
+	},
+	"Blueberry___healthy":{
+		"crop": "BlueBerry",
+		"disease":"No disease",
+		"healthy":false,
+		"bodyText":"Don't worry. Your crop is healthy. Keep it up !!!"
+	},
+	"Cherry_(including_sour)___Powdery_mildew":{
+		"crop":"Cherry",
+		"disease":"Powdery Mildew",
+		"causes":["Podosphaera clandestina, a fungus that most commonly infects young, expanding leaves but can also be found on buds, fruit and fruit stems.","It overwinters as small, round, black bodies (chasmothecia) on dead leaves, on the orchard floor, or in tree crotches.","Colonies produce more (asexual) spores generally around shuck fall and continue the disease cycle."],
+		"prevention":["Remove and destroy sucker shoots.","Keep irrigation water off developing fruit and leaves by using irrigation that does not wet the leaves. Also, keep irrigation sets as short as possible.","Follow cultural practices that promote good air circulation, such as pruning, and moderate shoot growth through judicious nitrogen management."]
+	},
+	"Cherry_(including_sour)___healthy":{
+		"crop":"Cherry",
+		"disease":"No disease",
+		"heathy":true,
+		"bodyText":"Don't worry. Your crop is healthy. Keep it up !!!"
+	},
+	"Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot":{
+		"crop":"Corn",
+		"disease":"Grey Leaf Spot",
+		"causes":["Gray leaf spot lesions on corn leaves hinder photosynthetic activity, reducing carbohydrates allocated towards grain fill.","The extent to which gray leaf spot damages crop yields can be estimated based on the extent to which leaves are infected relative to grainfill","Damage can be more severe when developing lesions progress past the ear leaf around pollination time","Because a decrease in functioning leaf area limits photosynthates dedicated towards grainfill, the plant might mobilize more carbohydrates from the stalk to fill kernels."],
+		"prevention":["In order to best prevent and manage corn grey leaf spot, the overall approach is to reduce the rate of disease growth and expansion","This is done by limiting the amount of secondary disease cycles and protecting leaf area from damage until after corn grain formation"]
+	},
+	"Corn_(maize)___Common_rust_":{
+		"crop":"Corn",
+		"disease":"Common Rust",
+		"causes":["Common corn rust, caused by the fungus Puccinia sorghi, is the most frequently occurring of the two primary rust diseases of corn in the U.S., but it rarely causes significant yield losses in Ohio field (dent) corn","Occasionally field corn, particularly in the southern half of the state, does become severely affected when weather conditions favor the development and spread of rust fungus"],
+		"prevention":["Although rust is frequently found on corn in Ohio, very rarely has there been a need for fungicide applications. This is due to the fact that there are highly resistant field corn hybrids available and most possess some degree of resistance.","However, popcorn and sweet corn can be quite susceptible. In seasons where considerable rust is present on the lower leaves prior to silking and the weather is unseasonably cool and wet, an early fungicide application may be necessary for effective disease control. Numerous fungicides are available for rust control."]
+	},
+	"Corn_(maize)___Northern_Leaf_Blight":{
+		"crop":"Corn",
+		"disease":"Northen Leaf of Blight",
+		"causes":[]
+
+	}
+}
