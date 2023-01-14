@@ -1,0 +1,166 @@
+{
+  "Apple___Apple_scab": [
+    { "name": "Abic", "company": "Syngenta" },
+    { "name": "ZEB M-45", "company": "NACL Industries Ltd." },
+    { "name": "Score", "company": "Syngenta" },
+    { "name": "UTHANE M-45", "company": "UPL" },
+    { "name": "Acoreli", "company": "Syngenta" }
+  ],
+  "Apple___Black_rot": [
+    { "name": "ZINTHANE", "company": "Tropical Agrosystem Pvt. Ltd." },
+    { "name": "M-45", "company": "Indofil" },
+    { "name": "Score", "company": "Syngenta" },
+    { "name": "ZEB M-45", "company": "NACL Industries Ltd." },
+    { "name": "Macoban M-45", "company": "Adama" }
+  ],
+  "Apple___Cedar_apple_rust": [
+    { "name": "Acoreli", "company": "Syngenta" },
+    { "name": "Score", "company": "Syngenta" },
+    { "name": "ZINTHANE", "company": "Tropical Agrosystem Pvt. Ltd." },
+    { "name": "UTHANE M-45", "company": "UPL" },
+    { "name": "Indofil Z-78", "company": "Indofil" }
+  ],
+  "Cherry(including_sour)___Powdery_mildew": [
+    { "name": "Amistar Top", "company": "Syngenta" },
+    { "name": "Contest Plus", "company": "Sumitomo Chemical" },
+    { "name": "MARLETT M-45", "company": "Coromandel" },
+    { "name": "Turnus", "company": "Godrej Agrovet Ltd." },
+    { "name": "Dithane M-45", "company": "Dow AgroSciences" }
+  ],
+  "Corn(maize)___Cercospora_leaf_spot Gray_leaf_spot": [
+    { "name": "MARLETT M-45", "company": "Coromandel" },
+    { "name": "ZINTHANE", "company": "Tropical Agrosystem Pvt. Ltd." },
+    { "name": "Revive-750", "company": "Tropical Agrosystem Pvt. Ltd." },
+    { "name": "Bavistin", "company": "Crystal" },
+    { "name": "Benmain", "company": "Adama" }
+  ],
+  "Corn(maize)___Common_rust": [
+    { "name": "GOZARU", "company": "IFFCO MC" },
+    { "name": "MAINCOP", "company": "Adama" },
+    { "name": "STARGEM-45", "company": "SWAL Corporation Ltd." },
+    { "name": "DHANUKA M-45", "company": "Dhanuka Agritech Ltd." },
+    { "name": "M-45", "company": "Indofil" }
+  ],
+  "Corn_(maize)___Northern_Leaf_Blight": [
+    { "name": "STARGEM-45", "company": "SWAL Corporation Ltd." },
+    { "name": "Dithane M-45", "company": "Dow AgroSciences" },
+    { "name": "UTHANE M-45", "company": "UPL" },
+    { "name": "Abic", "company": "Syngenta" },
+    { "name": "M-45", "company": "Indofil" }
+  ],
+  "Grape___Black_rot": [
+    { "name": "Plantomycin", "company": "Aries Agro Ltd." },
+    { "name": "Macoban M-45", "company": "Adama" },
+    { "name": "UTHANE M-45", "company": "UPL" },
+    { "name": "Abic", "company": "Syngenta" },
+    { "name": "ZINTHANE", "company": "Tropical Agrosystem Pvt. Ltd." }
+  ],
+  "Grape___Esca(Black_Measles)": [
+    { "name": "STARGEM-45", "company": "SWAL Corporation Ltd." },
+    { "name": "Macoban M-45", "company": "Adama" },
+    { "name": "GOZARU", "company": "IFFCO MC" },
+    { "name": "Abic", "company": "Syngenta" },
+    { "name": "Benmain", "company": "Adama" }
+  ],
+  "Grape___Leaf_blight(Isariopsis_Leaf_Spot)": [
+    { "name": "SAAFILIZER", "company": "UPL" },
+    { "name": "Opera", "company": "BASF" },
+    { "name": "FUSSION", "company": "Mahindra Agri Business" },
+    { "name": "Gomeda", "company": "Godrej Agrovet Ltd." },
+    { "name": "Combi Plus", "company": "NACL Industries Ltd." }
+  ],
+  "Orange___Haunglongbing(Citrus_greening)": [
+    { "name": "SAAFILIZER", "company": "UPL" },
+    { "name": "GOZARU", "company": "IFFCO MC" },
+    { "name": "Abic", "company": "Syngenta" },
+    { "name": "Gomeda", "company": "Godrej Agrovet Ltd." },
+    { "name": "MAINCOP", "company": "Adama" }
+  ],
+  "Peach___Bacterial_spot": [
+    { "name": "Crystal M-45", "company": "Crystal" },
+    { "name": "STARGEM-45", "company": "SWAL Corporation Ltd." },
+    { "name": "Blue Copper", "company": "Crystal" },
+    { "name": "Raze", "company": "Isagro Asia Agrochemicals Pvt. Ltd." },
+    { "name": "DHANUKA M-45", "company": "Dhanuka Agritech Ltd." }
+  ],
+  "Pepper,bell___Bacterial_spot": [
+    { "name": "Plantomycin", "company": "Aries Agro Ltd." },
+    { "name": "SPEEDOMYCIN", "company": "Nichino India (Nihon)" },
+    { "name": "MAINCOP", "company": "Adama" },
+    { "name": "Kocide 2000", "company": "DuPont" },
+    { "name": "Raze", "company": "Isagro Asia Agrochemicals Pvt. Ltd." }
+  ],
+  "Potato___Early_blight": [
+    { "name": "Amistar", "company": "Syngenta" },
+    { "name": "ZINTHANE", "company": "Tropical Agrosystem Pvt. Ltd." },
+    { "name": "Copper-S", "company": "Safex Chemicals India Ltd." },
+    { "name": "MOXIMATE", "company": "Indofil" },
+    { "name": "Indofil Z-78", "company": "Indofil" }
+  ],
+  "Potato___Late_blight": [
+    { "name": "Blitox", "company": "Tata India Pvt. Ltd." },
+    { "name": "Crystal M-45", "company": "Crystal" },
+    { "name": "M-45", "company": "Indofil" },
+    { "name": "Polyram", "company": "BASF" },
+    { "name": "Indofil Z-78", "company": "Indofil" }
+  ],
+  "Squash___Powdery_mildew": [
+    { "name": "Contest Plus", "company": "Sumitomo Chemical" },
+    { "name": "Jatayu", "company": "Coromandel" },
+    { "name": "Index", "company": "NACL Industries Ltd." },
+    { "name": "Abic", "company": "Syngenta" },
+    { "name": "Turnus", "company": "Godrej Agrovet Ltd." }
+  ],
+  "Strawberry___Leaf_scorch": [{ "name": "Indofil Z-78", "company": "Indofil" }],
+  "Tomato___Bacterial_spot": [
+    { "name": "DHANUKA M-45", "company": "Dhanuka Agritech Ltd." },
+    { "name": "Dhanucop 50% WP", "company": "Dhanuka Agritech Ltd." },
+    { "name": "Blitox", "company": "Tata India Pvt. Ltd." },
+    { "name": "MARLETT M-45", "company": "Coromandel" },
+    { "name": "Blue Copper", "company": "Crystal" }
+  ],
+  "Tomato___Early_blight": [
+    { "name": "Amistar", "company": "Syngenta" },
+    { "name": "ZINTHANE", "company": "Tropical Agrosystem Pvt. Ltd." },
+    { "name": "Copper-S", "company": "Safex Chemicals India Ltd." },
+    { "name": "MOXIMATE", "company": "Indofil" },
+    { "name": "Indofil Z-78", "company": "Indofil" }
+  ],
+  "Tomato___Late_blight": [
+    { "name": "Curzate M8", "company": "DuPont" },
+    { "name": "MOXIMATE", "company": "Indofil" },
+    { "name": "Copper-S", "company": "Safex Chemicals India Ltd." },
+    { "name": "Amistar", "company": "Syngenta" },
+    { "name": "Superhit", "company": "HPM Chemicals & Fertilizers" }
+  ],
+  "Tomato___Leaf_Mold": [{ "name": "Indofil Z-78", "company": "Indofil" }],
+  "Tomato___Septoria_leaf_spot": [
+    { "name": "GOZARU", "company": "IFFCO MC" },
+    { "name": "Raze", "company": "Isagro Asia Agrochemicals Pvt. Ltd." },
+    { "name": "Copper-S", "company": "Safex Chemicals India Ltd." },
+    { "name": "Blue Copper", "company": "Crystal" },
+    { "name": "Dhanucop 50% WP", "company": "Dhanuka Agritech Ltd." }
+  ],
+  "Tomato___Spider_mites Two-spotted_spider_mite": [
+    { "name": "Benzo", "company": "Shriram Fertilisers & Chemicals" },
+    { "name": "KINALUX 25 EC", "company": "UPL" },
+    { "name": "Amnon", "company": "Adama" },
+    { "name": "Fosmite", "company": "Pi Industries Ltd." },
+    { "name": "Target", "company": "Sumitomo Chemical" }
+  ],
+  "Tomato___Target_Spot": [{ "name": "Indofil Z-78", "company": "Indofil" }],
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": [
+    { "name": "Benzo", "company": "Shriram Fertilisers & Chemicals" },
+    { "name": "Raze", "company": "Isagro Asia Agrochemicals Pvt. Ltd." },
+    { "name": "Amnon", "company": "Adama" },
+    { "name": "MOXIMATE", "company": "Indofil" },
+    { "name": "Indofil Z-78", "company": "Indofil" }
+  ],
+  "Tomato___Tomato_mosaic_virus": [
+    { "name": "Benzo", "company": "Shriram Fertilisers & Chemicals" },
+    { "name": "Fosmite", "company": "Pi Industries Ltd." },
+    { "name": "Target", "company": "Sumitomo Chemical" },
+    { "name": "Index", "company": "NACL Industries Ltd." },
+    { "name": "Abic", "company": "Syngenta" }
+  ]
+}
